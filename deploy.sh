@@ -4,7 +4,7 @@ set -e
 time=$(date "+%Y-%m-%d %H:%M:%S")
 
  git add .
- git commit -m "update at $time"
+ git commit -m "$time 更新"
  git push -f git@github.com:Guan101/webpack.git note
 
 npm run build
