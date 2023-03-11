@@ -7,7 +7,7 @@ module.exports = {
       lang: "",
       title: "webpack",
       description:
-        "VuePress模板，主题，插件演示。展示了一个简单的VuePress案例模板，用户可以直接clone这个仓库，作为初始化一个VuePress网站启动项目，在这个项目的基础上新增自定义配置和功能。",
+        "",
     },
   },
   plugins: [
