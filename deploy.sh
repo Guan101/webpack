@@ -4,11 +4,11 @@ set -e
 time=$(date "+%Y-%m-%d %H:%M:%S")
 
  git add .
- git commit -m "$time --更新"
+ git commit -m "$time --更新--"
  git push -f git@github.com:Guan101/webpack.git note
 
 npm run build
 
 git add docs/.vuepress/dist
-git commit -m "Initial dist subtree commit"
+git commit -m "dist subtree commit"
 git subtree push --prefix docs/.vuepress/dist origin page
