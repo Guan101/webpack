@@ -50,7 +50,12 @@ module.exports = {
           },
         ],
         sidebar: {
-          "/guide/": ["", "theme", "plugin"],
+          "/guide/": [
+            "",
+             "theme",
+             "plugin",
+             "工程化概念"
+            ],
           "/resource/": [],
         },
       },
