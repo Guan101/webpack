@@ -1,14 +1,14 @@
 {
-  "name": "ts-notes",
+  "name": "webpack",
   "version": "1.0.6",
-  "description": "ts-notes",
+  "description": "webpack",
   "author": "wenhao",
   "main": "index.js",
   "keywords": [
     "theme",
     "template",
     "plugin",
-    "ts",
+    "webpack",
     "vuepress"
   ],
   "license": "MIT",
