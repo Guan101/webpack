@@ -6,8 +6,7 @@ module.exports = {
     "/": {
       lang: "",
       title: "webpack",
-      description:
-        "",
+      description: "",
     },
   },
   plugins: [
